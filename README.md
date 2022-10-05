@@ -1,6 +1,11 @@
 # mac-streamdeck-color-picker
 Keyboard Maestro XML file to set up a semi-functional color picker
 
+# Prerequisites
+Elgato Streamdeck
+<br>Macbook
+<br>Keyboard Maestro plugin from elgato streamdeck app
+
 # Important tips 
 
 Prior to selecting the trigger be sure to place a Keyboard Maestro button on the stream deck. You will map this placeholder in the Keyboard Maestro script. This does not dynamically change when the button is moved. Be sure to update all three values when moving tiles.
