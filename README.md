@@ -15,3 +15,9 @@ This value will need to be added to two other locations
 If there are issues with simulationg the Command+Q keystroke they can be entered individually
 <img width="927" alt="Screen Shot 2022-10-04 at 8 24 45 PM" src="https://user-images.githubusercontent.com/97474755/193975301-15da8c39-fcf5-4078-9aa1-7cdcae135c4b.png">
 
+# Known Issues
+Sometimes the tile color will not change with the title. Further testing required
+
+# Please help
+If someone can assist in porting this to a compiled plugin for the M1 Macbook I would be eternally grateful
+This is a great function for color blind individuals
