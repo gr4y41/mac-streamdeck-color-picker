@@ -3,7 +3,7 @@ Keyboard Maestro XML file to set up a semi-functional color picker
 
 # Important tips 
 
-Prior to selecting the trigger be sure to place a Keyboard Maestro button on the stream deck. You will map this placeholder in the Keyboard Maestro script.
+Prior to selecting the trigger be sure to place a Keyboard Maestro button on the stream deck. You will map this placeholder in the Keyboard Maestro script. This does not dynamically change when the button is moved. Be sure to update all three values when moving tiles.
 
 <img width="947" alt="Screen Shot 2022-10-04 at 8 24 36 PM" src="https://user-images.githubusercontent.com/97474755/193975083-4af97e18-0913-47d0-b9c7-8116b536bc70.png">
 
