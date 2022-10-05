@@ -1,6 +1,10 @@
 # mac-streamdeck-color-picker
 Keyboard Maestro XML file to set up a semi-functional color picker
 
+# Credit
+I attempted to recreate this great windows specific plugin by hacking together a Keyboard Maestro script
+https://github.com/VictorGrycuk/streamdeck-color-picker.git 
+
 # Prerequisites
 Elgato Streamdeck
 <br>Macbook
