@@ -20,4 +20,4 @@ Sometimes the tile color will not change with the title. Further testing require
 
 # Please help
 If someone can assist in porting this to a compiled plugin for the M1 Macbook I would be eternally grateful
-This is a great function for color blind individuals
+<br>This is a great function for color blind individuals
