@@ -22,6 +22,7 @@ If there are issues with simulationg the Command+Q keystroke they can be entered
 
 # Known Issues
 Sometimes the tile color will not change with the title. Further testing required
+<br>For fullscreen users there is an issue with changing windows and the tile not updating.
 
 # Please help
 If someone can assist in porting this to a compiled plugin for the M1 Macbook I would be eternally grateful
